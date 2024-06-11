@@ -1,0 +1,9 @@
+The Calculator Main Menu options
+Enter:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide 
+5. Square
+6. Square root
+7. Exit Calculator
